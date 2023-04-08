@@ -1,4 +1,4 @@
-# qiskit-intro-qaoa
+# qiskit-intro
 
 An intro to using Qiskit to implmement the Quantum Approximate Optimization Algorithm
 
